@@ -1,0 +1,121 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.imagefond1{
+    background-image: url("https://enzovcnt.github.io/bootstrapBlueasy/images/HERO.jpg");
+    filter: grayscale(50%);
+}
+.navbar{
+    word-spacing: 10px;
+}
+.home{
+    border: 3px solid blue;
+    padding: 10px;
+    margin-right: 5px;
+}
+.E{
+    color: blue;
+}
+.two{
+    background-image: url("https://enzovcnt.github.io/bootstrapBlueasy/images/fondservices.png");
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+.bloc4{
+    flex: 1;
+}
+.three{
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+.all{
+    padding-right: 5vw;
+}
+.allborder{
+    border: 3px solid blue;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.PPMJ{
+    word-spacing: 5px;
+}
+.four{
+    padding-left: 10vw;
+    padding-right: 10vw;
+    background-color: gray;
+    color: white;
+}
+.bouton{
+    border-radius: 0;
+    border: 5px solid;
+}
+.youtube{
+    padding-left: 20px;
+}
+.five{
+    background-image: url("https://enzovcnt.github.io/bootstrapBlueasy/images/fondservices.png");
+    padding-left: 10vw;
+    padding-right: 10vw;
+    color: white;
+}
+.textwitter{
+    line-height: 3;
+}
+.six{
+    padding-left: 10vw;
+    padding-right: 10vw;
+    background-color: lightslategrey;
+    color: white;
+}
+.textjohn{
+    padding-right: 5vw;
+}
+.imagejohn{
+    margin-left: 2vw;
+}
+.textjohn2{
+    padding-top: 2vh;
+}
+.seven{
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+.textimonial{
+    line-height: 2;
+}
+.arthur {
+    padding-top: 2vh;
+}
+.eight{
+    padding-left: 10vw;
+    padding-right: 10vw;
+    background-color: lightslategrey;
+    color: white;
+}
+.form1{
+    padding-right: 2vw;
+}
+.textcontact{
+    line-height: 1.7;
+}
+.textlongform{
+    margin-bottom: 2vh;
+}
+.bmessage{
+    margin-top: 2vh;
+    background-color: lightblue;
+    color: white;
+}
+.formulaire{
+    background-color: lightslategrey;
+}
+.nine{
+    padding-left: 10vw;
+    padding-right: 10vw;
+    background-color: darkslategray;
+    color: gray;
+}
+.bordure{
+    border-left: 5px solid gray;
+}
